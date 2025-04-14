@@ -1,2 +1,3 @@
-const objFullname = (firstName, lastName) => obj = { firstName, lastName };
+const objFullname = (firstName, lastName) => ({ firstName, lastName });
+
 module.exports = objFullname;
