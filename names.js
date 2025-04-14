@@ -1,3 +1,3 @@
-const toObj = (firstName, lastName) => ({ firstName, lastName });
+const toObj = (a, b) => ({ a, b });
 
 module.exports = toObj;
