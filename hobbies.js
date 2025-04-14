@@ -1,3 +1,3 @@
-const ToString = (a, b, c) => [a, b, c];
+const createStringHobbies = (hobbyOne, hobbyTwo, hobbyThree) => [hobbyOne, hobbyTwo, hobbyThree];
 
-module.exports = toString;
+module.exports = createStringHobbies;

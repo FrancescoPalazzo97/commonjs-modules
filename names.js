@@ -1,3 +1,3 @@
-const toObj = (a, b) => ({ a, b });
+const CreateObjFullname = (firstName, lastName) => ({ firstName, lastName });
 
-module.exports = toObj;
+module.exports = CreateObjFullname;
