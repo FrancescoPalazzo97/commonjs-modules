@@ -1,3 +1,3 @@
-const createStringHobbies = (hobbyOne, hobbyTwo, hobbyThree) => [hobbyOne, hobbyTwo, hobbyThree];
+const createArrayHobbies = (hobbyOne, hobbyTwo, hobbyThree) => [hobbyOne, hobbyTwo, hobbyThree];
 
-module.exports = createStringHobbies;
+module.exports = createArrayHobbies;

@@ -23,3 +23,5 @@ let person = createPerson();
 
 // Stampo il risultato
 console.log(person);
+
+console.log(`La seguente persona si chiama ${personFirstname} ${personLastname}`)
